@@ -1,2 +1,2 @@
-# Projetos-em-Power-BI
-Armazenamento de projetos em Power BI
+# Exercícios-PowerBI
+Armazenamento de exercícios em Power BI
